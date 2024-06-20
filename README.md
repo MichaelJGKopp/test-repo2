@@ -92,4 +92,4 @@
   
   and again
 
-  [![IMAGE ALT TEXT HERE](https://d9hhrg4mnvzow.cloudfront.net/3ee210b41bd54bbfa24d627a94d0f076.pages.ubembed.com/e6444d19-ad68-444b-b5be-af51bdeab100/e36bc374-1_103901j03801j000000028.png)](https://www.youtube.com/watch?v=S2qiVX05woI)
+  [![IMAGE ALT TEXT HERE](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png)](https://www.youtube.com/watch?v=S2qiVX05woI)
