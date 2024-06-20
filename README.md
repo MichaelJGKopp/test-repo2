@@ -5,7 +5,7 @@
 #### Germany
 ##### etc.
 
-[MichaelJG.Kopp@gmail.com](mailto:MichaelJG.Kopp@gmail.com)
+[My email](mailto:MichaelJG.Kopp@gmail.com)
 
   ## Names of students in the same class:
   * Alex
