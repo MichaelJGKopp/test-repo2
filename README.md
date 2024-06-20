@@ -5,7 +5,7 @@
 #### Germany
 ##### etc.
 
-[Email: MichaelJG.Kopp@gmail.com](mailto:MichaelJG.Kopp@gmail.com)
+[MichaelJG.Kopp@gmail.com](mailto:MichaelJG.Kopp@gmail.com)
 
   ## Names of students in the same class:
   * Alex
@@ -65,7 +65,9 @@
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
   > Blockquote1
+
   > Blockquote2
+
   > and 3 
 
   Quote break.
